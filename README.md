@@ -18,7 +18,7 @@ golearn 패키지
 2. 프로그램을 실행합니다.
 
   ```bash
-   go run main.go
+   go run main.go
    ```
 
 결과
