@@ -11,11 +11,6 @@ golearn 패키지
 
 bash
 Copy code
-git clone https://github.com/your_username/your_project.git
-프로젝트 디렉토리로 이동합니다.
-
-bash
-Copy code
 cd your_project
 필요한 종속성을 설치합니다.
 
