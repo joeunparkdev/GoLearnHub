@@ -24,7 +24,7 @@ func main() {
 		log.Fatal("Error training model:", err)
 	}
 
-	// 2030년에 해당하는 데이터 생성
+	// 2024년에 해당하는 데이터 생성
 	newData := base.NewDenseInstances()
 
 	// 새로운 데이터에 대한 예측
@@ -34,5 +34,5 @@ func main() {
 	}
 
 	// 결과 출력
-	fmt.Printf("Prediction for 2030: %.2f\n", prediction)
+	fmt.Printf("Prediction for 2024: %.2f\n", prediction)
 }
